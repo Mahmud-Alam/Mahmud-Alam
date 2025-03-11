@@ -56,3 +56,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mahmud-Alam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahmud-Alam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud-Alam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+<h3 align="center">Thanks for visiting</h3>
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/mahmud-alam/count.svg">
+  <img src="https://profile-counter.glitch.me/mahmud-alam/count.svg" style="max-width: 100%;">
+</a>
+</p>
