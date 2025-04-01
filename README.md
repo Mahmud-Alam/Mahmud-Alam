@@ -11,7 +11,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="30" /> About Me
 👨‍💻 Passionate about web development, AI-driven solutions, and building scalable applications.  
 🔍 Constantly learning new technologies and optimizing performance.  
-📌 Focused on **Frontend (React, Next.js, Tailwind), Backend (Node.js, Express.js, Django), and Machine Learning (TensorFlow, Scikit-Learn).**  
+📌 Focused on **Frontend (React, Tailwind), Backend (Node.js, Express.js, Django), and Machine Learning (TensorFlow, Scikit-Learn).**  
 💡 Love open-source and sharing knowledge! 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" /> What I Do<br>
